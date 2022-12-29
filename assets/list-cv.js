@@ -7,7 +7,12 @@
             "position": "Full-stack Developer",
             "link": "https://nguyentruonganhkiet.work",
             "name": "Nguyễn Trương Anh Kiệt"
-        }
+        },
+        {
+            "position": "Front-end Developer",
+            "link": "https://nguyenvanhoang46.github.io/cv/",
+            "name": "Nguuyễn Văn Hoàng"
+        },
     ]
 
     function render() {
