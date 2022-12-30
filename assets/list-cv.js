@@ -1,4 +1,10 @@
-    var listCv = [{
+    var listCv = [
+         {
+            "position": "Front-end Developer",
+            "link": "https://huutai.tokyo/",
+            "name": "Trần Hữu Tài"
+        },
+        {
             "position": "Front-end Developer",
             "link": "http://huyhieu.online",
             "name": "Nguyễn Phan Huy Hiếu"
