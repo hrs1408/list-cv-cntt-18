@@ -1,5 +1,4 @@
-    var listCv = [
-         {
+    var listCv = [{
             "position": "Front-end Developer",
             "link": "https://huutai.tokyo/",
             "name": "Trần Hữu Tài"
@@ -13,6 +12,11 @@
             "position": "Full-stack Developer",
             "link": "https://nguyentruonganhkiet.work",
             "name": "Nguyễn Trương Anh Kiệt"
+        },
+        {
+            "position": "Java Developer",
+            "link": "https://lamsoc010.github.io/Profile-Me/",
+            "name": "Trần Vĩnh Lãm"
         },
         {
             "position": "Front-end Developer",
@@ -69,52 +73,52 @@
             "link": "https://phamvanlinh1207.github.io/",
             "name": "Phạm Văn Lĩnh"
         },
-         {
+        {
             "position": "Developer",
             "link": "https://phanvietbao.github.io/CV/",
             "name": "Phan Viết Bảo"
         },
-         {
+        {
             "position": "Developer",
             "link": "https://nguyenhoangthanhphuong236.github.io/Nii/",
             "name": "Nguyễn Hoàng Thanh Phương"
         },
-         {
+        {
             "position": "Developer",
             "link": "https://hoangkimquyphi.github.io/CDFrofile/",
             "name": "Hoàng Quý Phi"
         },
-         {
+        {
             "position": "PHP Developer",
             "link": "https://kieutrinh25.github.io/kieutrinh.github.io",
             "name": "Trần Thị Kiều Trinh"
         },
-         {
+        {
             "position": "Web Developer",
             "link": "https://viethoangvippro.github.io/CVVH/",
             "name": "Trương Việt Hoàng"
         },
-         {
+        {
             "position": "Full-stack Developer",
             "link": "https://dtp000.tk/CV/",
             "name": "Phan Đình Trung"
         },
-         {
+        {
             "position": "Front-end Developer, Graphic Designer",
             "link": "https://teddy2912.github.io/trantuanphong-cv",
             "name": "Trần Tuấn Phong"
         },
-         {
+        {
             "position": "Front-end Developer",
             "link": "https://quoctoan2103.github.io/nqt/",
             "name": "Nguyễn Quốc Toản"
         },
-         {
+        {
             "position": "Developer",
             "link": "https://tranconghung.github.io/profile-TCH/",
             "name": "Trần Công Hưng"
         },
-         {
+        {
             "position": "Java Developer",
             "link": "https://orange-programmer-2002.github.io/CV/",
             "name": "Lương Thành Đạt"
