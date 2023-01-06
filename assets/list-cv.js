@@ -5,7 +5,7 @@
         },
         {
             "position": "Front-end Developer",
-            "link": "http://huyhieu.online",
+            "link": "https://huyhieu.online",
             "name": "Nguyễn Phan Huy Hiếu"
         },
         {
@@ -20,7 +20,7 @@
         },
         {
             "position": "Front-end Developer",
-            "link": "https://nguyenvanhoang46.github.io/cv/",
+            "link": "http:vanhoang.online",
             "name": "Nguyễn Văn Hoàng"
         },
         {
