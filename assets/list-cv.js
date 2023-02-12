@@ -75,7 +75,7 @@
         },
         {
             "position": "Developer",
-            "link": "https://dat1003002.github.io/MyCv/Cv.html",
+            "link": "https://dat1003002.github.io/MyProfile/?fbclid=IwAR3QhrS58Hq9pkrALXpGfOrqm5BYoBGAo8_Gmts2lsYK_QJS2bNJHLTob44",
             "name": "Phan Văn Đạt"
         },
         {
