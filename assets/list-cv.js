@@ -115,7 +115,7 @@
         },
         {
             "position": "Full-stack Developer",
-            "link": "https://dtp000.tk/CV/",
+            "link": "https://dtp000.github.io/cv/",
             "name": "Phan Đình Trung"
         },
         {
