@@ -1,6 +1,6 @@
     var listCv = [{
             "position": "Front-end Developer",
-            "link": "https://huutai.tokyo/",
+            "link": "https://taitranhuu.netlify.app/",
             "name": "Trần Hữu Tài"
         },
         {
