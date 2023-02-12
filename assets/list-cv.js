@@ -20,10 +20,15 @@
         },
         {
             "position": "Front-end Developer",
-            "link": "http:vanhoang.online",
+            "link": "http://vanhoang.online",
             "name": "Nguyễn Văn Hoàng"
         },
-         {
+        {
+            "position": "PHP DEVELOPER",
+            "link": "https://bichloanb31507.github.io/resume/",
+            "name": "Nguyễn Phan Bích Loan"
+        },
+        {
             "position": "Back-end Developer",
             "link": "https://duongvanhuy.github.io/profile-CV/home?fbclid=IwAR062LpcHzxgJTbxbTX0poPqwfouMYruIP3bVdSZ0-YSZAS9XxbNQUUEHzo",
             "name": "Dương Văn Huy"
@@ -50,7 +55,7 @@
         },
         {
             "position": "Developer",
-            "link": "https://chanhphuong.github.io/ChanhPhuong",
+            "link": "https://chanhphuong.github.io/cv/",
             "name": "Nguyễn Chánh Phương"
         },
         {
@@ -65,7 +70,7 @@
         },
         {
             "position": "Developer",
-            "link": "https://namphancv.000webhostapp.com/?fbclid=IwAR2xDBynO88EcKUOHCi6eW-K7-fJtU5eRqEVSDCz70ycruhhzotbfoUhWBY",
+            "link": "https://henryford-cyber.github.io/",
             "name": "Phan Phước Phương Nam"
         },
         {
@@ -90,7 +95,7 @@
         },
         {
             "position": "Developer",
-            "link": "https://nguyenhoangthanhphuong236.github.io/Nii/",
+            "link": "https://nguyenhoangthanhphuong236.github.io/cv/",
             "name": "Nguyễn Hoàng Thanh Phương"
         },
         {
@@ -105,7 +110,7 @@
         },
         {
             "position": "Web Developer",
-            "link": "https://viethoangvippro.github.io/CVVH/",
+            "link": "https://viethoangvippro.github.io/ProfileH/",
             "name": "Trương Việt Hoàng"
         },
         {
@@ -120,7 +125,7 @@
         },
         {
             "position": "Front-end Developer",
-            "link": "https://quoctoan2103.github.io/nqt/",
+            "link": "https://quoctoan2103.github.io/ProfileNguyenQuocToan/",
             "name": "Nguyễn Quốc Toản"
         },
         {
@@ -168,57 +173,57 @@
             "link": "https://tht071.github.io/TruongHoangTriCV/",
             "name": "Trương Hoàng Trí"
         },
-         {
+        {
             "position": "Web Developer",
             "link": "https://huynhnguyen2001.github.io/mycv/",
             "name": "Huỳnh Văn Nguyên"
         },
-         {
+        {
             "position": "Web Developer",
             "link": "https://huynhoaiminh.github.io/CV",
             "name": "Huỳnh Hoài Minh"
         },
-         {
+        {
             "position": "Web Developer",
             "link": "https://dqh8391.github.io/huycv2/",
             "name": "Đỗ Quốc Huy"
         },
-            {
+        {
             "position": "Front-end Developer",
             "link": "https://tung0212.github.io/profile/",
             "name": "La Thanh Tùng"
         },
-           {
+        {
             "position": "Front-end Developer",
             "link": "https://tranconghung.github.io/profile-Quang_Hoang/",
             "name": "Nguyễn Hồ Quang Hoàng"
         },
-          {
+        {
             "position": "Tester",
             "link": "https://longtruong12.github.io/information/",
             "name": "Trương Đình Long"
         },
-          {
+        {
             "position": "Web & Mobile Developer",
             "link": "https://dacthem.github.io/index.html",
             "name": "Nguyễn Đắc Thêm"
         },
-          {
+        {
             "position": "Back-end Developer",
             "link": "https://youkino0101.github.io/CV-Profile/?",
             "name": "Nguyen Thanh Quan"
         },
-          {
+        {
             "position": "Full-stack Developer",
-            "link": "https://hoangzyne.github.io/cv/?",
+            "link": "https://hoangzyne.github.io/mycv/",
             "name": "Hoàng Ngọc Vỹ"
         },
-         {
+        {
             "position": "Front-end Developer",
             "link": "https://voduyet.github.io/profile-VoDuyet",
             "name": "VÕ DUYỆT"
         },
-          {
+        {
             "position": "Developer",
             "link": "https://khongphaikhah.github.io/CV/",
             "name": "ĐỖ VĂN KHÁNH"
