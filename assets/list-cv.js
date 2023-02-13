@@ -95,7 +95,7 @@
         },
         {
             "position": "Developer",
-            "link": "https://nguyenhoangthanhphuong236.github.io/cv/",
+            "link": "https://nguyenhoangthanhphuong236.github.io/My_profile/?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo",
             "name": "Nguyễn Hoàng Thanh Phương"
         },
         {
@@ -220,7 +220,7 @@
         },
         {
             "position": "Front-end Developer",
-            "link": "https://voduyet.github.io/profile-VoDuyet",
+            "link": "https://voduyet.github.io/CVVODUYET/?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo",
             "name": "VÕ DUYỆT"
         },
         {
