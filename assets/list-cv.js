@@ -195,7 +195,7 @@
         },
         {
             "position": "Front-end Developer",
-            "link": "https://tranconghung.github.io/profile-Quang_Hoang/",
+            "link": "https://kieutrinh25.github.io/hoang.github.io/?utm_source=zalo&utm_medium=zalo&utm_campaign=zalo",
             "name": "Nguyễn Hồ Quang Hoàng"
         },
         {
